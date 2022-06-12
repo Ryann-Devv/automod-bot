@@ -58,7 +58,7 @@ client.on("ready", () => {
 
 const portToUse = 2804 
 console.log('Port to use is ' + portToUse)
-client.login("ODgxNTMxODQwOTQ5ODA1MDc3.GfD6Vh.R2fvnPe9Eq1oKUJIyr5VohjrnBC_Xs77wKig08");
+client.login("OTA3MDA2NzI5Mjg2NDc1ODA5.GjqE4K.vapJ-cjH6iD0BEozxXeQde0BqZ7Pe0BV3uLcFk");
 
 const http = require('http')
 
